@@ -157,6 +157,8 @@ LibraryProject/
 │
 ├── manage.py
 
+:
+
 THREE:
 3. Implementing HTTPS and Secure Redirects in Django
 mandatory
